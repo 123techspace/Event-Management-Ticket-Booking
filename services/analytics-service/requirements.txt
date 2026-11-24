@@ -1,0 +1,14 @@
+confluent_kafka
+logger
+psycopg2-binary
+SQLAlchemy
+python-dateutil
+grpcio
+grpcio-tools
+flask
+gunicorn
+# googleapis-common-protos
+# grpc-gateway
+# protobuf
+# requests
+# flask
